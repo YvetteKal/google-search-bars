@@ -97,7 +97,7 @@ main{
 }
 
 .b-main{
-    background-color: rgb(242, 242, 242);
+    background-color: rgb(241, 239, 239);
     border: 1px solid rgb(242, 242, 242);
     border-radius: 4px;
     color: rgb(95, 99, 104);
@@ -116,7 +116,6 @@ main{
     border: 1px solid rgb(198, 198, 198);
     color: rgb(34, 34, 34);
 }
-
 .camera{
   height:25px;
   position:relative;
